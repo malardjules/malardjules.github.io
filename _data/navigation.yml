@@ -10,8 +10,6 @@
 main:
 - title: "Projets"
   url: /projects/
-- title: "Rapports"
-  url: /reports/
 - title: "CV"
   url: /cv/
 - title: "À propos"
